@@ -1,6 +1,6 @@
 # PowerBi_Sales_Analysis
 
-**1.Project Title**
+#**1.Project Title**
 Super Store Sales Dashboard | Power BI Business Intelligence Project
 
 **2.Description**
