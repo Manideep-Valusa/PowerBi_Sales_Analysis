@@ -7,7 +7,7 @@ Super Store Sales Dashboard | Power BI Business Intelligence Project
 The Super Store Sales Dashboard is an interactive Power BI report designed to analyze and visualize retail sales performance across regions, categories, segments, and shipping modes.
 This dashboard provides key business insights into Sales, Profit, Orders, and Shipping performance, helping stakeholders make data-driven decisions.
 
-3. Tech Stack:
+3.Tech Stacks:
 •	Power BI Desktop 📊
 •	DAX (Data Analysis Expressions) 🧠
 •	Power Query (Data Transformation) 📂
